@@ -28,17 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"  />
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karas-wael/karas-wael/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karas-wael/karas-wael/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karas-wael/karas-wael/output/pacman-contribution-graph.svg">
-</picture>
+<img align="center" height="150" src="https://c.tenor.com/IVCnKbtTeRQAAAAC/programming-computer.gif"  />
 
 ###
 
@@ -62,4 +52,4 @@
   </a>
 </div>
 
-###
+
